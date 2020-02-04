@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mendix PhoneGap Build App Template
 
 Mendix apps can simply be viewed in mobile web browsers. However, some features of mobile devices
@@ -306,3 +307,7 @@ This will show up in your logs as `[!] No 'Podfile' found in the project directo
 You can safely ignore this error.
 
 
+=======
+# IOS-Stuuf-
+IOS application code for stuuf.io
+>>>>>>> 58d914406ecc0a59587eeac34d828434a6e1349f
