@@ -1,0 +1,124 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.darktalker.cordova.screenshot": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "com.telerik.plugins.nativepagetransitions": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-build-architecture": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-cookieemperor": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-secure-storage": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-spinner": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+      "LOCATION_USAGE_DESCRIPTION": "This app requires access to your location for navigation purposes",
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-universal-links-plugin": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-calendar": {
+      "CALENDAR_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "cordova-plugin-media": {
+      "KEEP_AVAUDIOSESSION_ALWAYS_ACTIVE": "NO",
+      "PACKAGE_NAME": "com.stuuf.test"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.stuuf.test"
+    }
+  }
+}

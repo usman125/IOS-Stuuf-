@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464885529676",
+    "firebase_url": "https://stuuf-test.firebaseio.com",
+    "project_id": "stuuf-test",
+    "storage_bucket": "stuuf-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464885529676:android:38cda188f4f7826b",
+        "android_client_info": {
+          "package_name": "com.stuuf.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464885529676-0kfge1unkeca3bsunmj5aqji49o6k53i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-YIEpQjc-kBSd2WrrotH16znr4RSRJbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "<YOUR_TEAM_ID_FROM_MEMBER_CENTER>.com.stuuf.test",
+        "paths": [
+          "*launchmyapp*",
+          "*myorders*",
+          "*myproducts*",
+          "*mysales*",
+          "*offers*",
+          "*orderchat*"
+        ]
+      }
+    ]
+  }
+}

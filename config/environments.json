@@ -1,0 +1,17 @@
+{
+  "production" : {
+    "name" : "Stuuf",
+    "identifier" : "com.stuuf.test",
+    "url" : "https://stuuf.mendixcloud.com"
+  },
+  "acceptance" : {
+    "name" : "Stuuf",
+    "identifier" : "com.stuuf.test",
+    "url" : "https://stuuf-accp.mendixcloud.com"
+  },
+  "test" : {
+    "name" : "Stuuf",
+    "identifier" : "com.stuuf.test",
+    "url" : "https://stuuf-test.mendixcloud.com"
+  }
+}

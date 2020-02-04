@@ -1,0 +1,26 @@
+{
+  "url" : "https://stuuf.mendixcloud.com",
+  "identifier" : "com.stuuf.test",
+  "version" : "0.0.20",
+  "name" : "Stuuf",
+  "description" : null,
+  "iosEnabled" : true,
+  "androidEnabled" : false,
+  "requirePin" : false,
+  "enableOffline" : false,
+  "permissions" : {
+    "calendar" : true,
+    "camera" : true,
+    "photoLibrary" : true,
+    "contacts" : true,
+    "microphone" : true,
+    "geoLocation" : true,
+    "push" : true
+  },
+  "theme" : {
+    "background" : "#0595DB",
+    "text" : "#ffffff",
+    "button" : "#76CA02",
+    "buttonCaption" : "#ffffff"
+  }
+}
